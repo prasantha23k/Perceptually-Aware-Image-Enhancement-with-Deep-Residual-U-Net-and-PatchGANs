@@ -85,6 +85,6 @@ If you use this work, please cite:
 }
 
 ## 📬 Contact
-For queries: satvikraghav007@gmail.com
+For queries: karthikeya23p@gmail.com
 
 
